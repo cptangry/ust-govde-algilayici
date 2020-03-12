@@ -6,8 +6,8 @@ OpenCV's upperbody Haar Cascade verisini kullanarak insan vücudunun üst kısm�
 Positive yakalandığında yakalanan positive değer alanı yeşil bir dikdörtgen içine alınacak.
 Birden fazla insan nesnesi çoklu dörtgen kutucuklar içine alınacaktır.
 
-![Örnek 1](screenshots/Positives_1.JPG "Herhangi bir positive yakalandığında kodun çalımasınıa örnek")
-![Örnek 2](screenshots/Positives_2.JPG "Çoklu positive yakalandığında kodun çalımasınıa örnek")
+![Örnek 1](screenshots/Positives_1.JPG "Herhangi bir positive yakalandığında kodun çalışmasına örnek")
+![Örnek 2](screenshots/Positives_2.JPG "Çoklu positive yakalandığında kodun çalışmasına örnek")
 
 ## Gereksinimler
 * [Python](https://www.python.org/downloads/)
