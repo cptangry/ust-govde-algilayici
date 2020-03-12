@@ -1,4 +1,4 @@
-# Gerçek zamanlı insan vücudu üst bölge algılma
+# Gerçek zamanlı insan vücudu üst bölge algılama
 Gerçek zamanlı olarak insan gövdelerini algılayan python betiği.
 
 ## Nasıl çalışıyor
